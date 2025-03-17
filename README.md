@@ -2,7 +2,7 @@ DISTRIBUTED SOCIAL MEDIA/BLOGGING APPLICATION
 
 Description:
 
-This project is a distributed social media and blogging application that allows users to create, manage, and interact with posts and comments.
+This project is a distributed social media and blogging application that allows users to create, manage, and interact with posts or users.
 
 Tools
 
