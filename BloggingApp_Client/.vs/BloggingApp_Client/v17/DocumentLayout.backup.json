@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\createpostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:createpostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\createpostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:createpostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|d:\\an_4\\semestrul_1\\proiecte\\scd\\bapp_frontend\\bloggingapp_client\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A901FA0-B005-4722-BA79-C858BE886A0E}|BloggingApp_Client.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePostForm.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\CreatePostForm.cs",
+              "RelativeDocumentMoniker": "CreatePostForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\CreatePostForm.cs*",
+              "RelativeToolTip": "CreatePostForm.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:34:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatePostForm.cs [Design]",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\CreatePostForm.cs",
+              "RelativeDocumentMoniker": "CreatePostForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\CreatePostForm.cs [Design]*",
+              "RelativeToolTip": "CreatePostForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:27:58.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:26:14.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\PostService.cs",
+              "RelativeDocumentMoniker": "PostService.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\PostService.cs",
+              "RelativeToolTip": "PostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:14:23.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\Post.cs",
+              "RelativeDocumentMoniker": "Post.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\Post.cs",
+              "RelativeToolTip": "Post.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:16:48.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwv4cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:32:09.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwBEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:37:00.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:16:22.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:27:10.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:13:13.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "D:\\An_4\\Semestrul_1\\Proiecte\\SCD\\BApp_Frontend\\BloggingApp_Client\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:27:29.091Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
